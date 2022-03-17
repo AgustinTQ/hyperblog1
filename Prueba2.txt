@@ -1,0 +1,6 @@
+
+Esta es la prueba numero 2 del curso Profesional con Git y Github
+
+Se inicio a las 11am
+
+Se espera terminar el dia de hoy a las 4pm
